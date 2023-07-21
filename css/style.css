@@ -1,0 +1,52 @@
+@font-face{
+  font-family:font1;
+  src:url(../font/IRANSansWeb_Light.ttf);
+}
+body{
+  font-family: font1;
+}
+#section1 {
+  padding-top: 50px;
+  color: #fff;
+  background-color: #2B2D42;
+}
+
+#section2 {
+  padding-top: 50px;
+  color: #fff;
+  background-color: #00678c;
+}
+
+#section3 {
+  padding-top: 50px;
+  color: rgb(79, 79, 79);
+  background-color: #ff9800;
+}
+
+#section4 {
+  padding-top: 50px;
+  height: 500px;
+  color: #000000;
+  background-color: #EDF2F4;
+}
+
+#section5 {
+  padding-top: 50px;
+  height: 500px;
+  color: #fff;
+  background-color: #EF233C;
+}
+.Beat{
+  width: 100%;
+  margin: 25px 0;
+}
+.qw{
+  color: #bac523;
+}
+.ht{
+  background-color: violet;
+}
+td{
+  color: #2B2D42;
+  background-color: rgb(66, 220, 202);
+}
