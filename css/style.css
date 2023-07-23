@@ -49,7 +49,7 @@ td{
   background-color: rgb(66, 220, 202);
 }
 .bg{
-  background-image: url(../image/bodyimg.jpg);
+  background-image: url(../image/bodyimg.png);
   background-repeat: repeat;
   height: 300px;
 }
@@ -70,4 +70,11 @@ td{
 }
 .pza{
   color:aqua;
+}
+.bg1{
+  background-image: url(../image/moroccan-flower-dark.webp);
+  background-repeat: repeat;
+}
+.black1{
+  background-color: #00000089;
 }
