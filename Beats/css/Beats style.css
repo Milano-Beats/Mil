@@ -1,0 +1,26 @@
+@font-face{
+  font-family:font1;
+  src:url(../font/IRANSansWeb_Light.ttf);
+}
+body{
+  font-family:font1;
+  user-select: none;
+}
+#section1 {
+  color: #fff;
+  background-color: #2B2D42;
+}
+.Beat{
+  width: 100%;
+  margin: 25px 0;
+}
+.qw{
+  color: #bac523;
+}
+.bg1{
+  background-image: url(../image/moroccan-flower-dark.webp);
+  background-repeat: repeat;
+}
+.black1{
+  background-color: #00000089;
+}

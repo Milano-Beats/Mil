@@ -1,80 +1,25 @@
-@font-face{
-  font-family:font1;
-  src:url(../font/IRANSansWeb_Light.ttf);
-}
 body{
-  font-family: font1;
+    background-color: #2b3035;
+    user-select: none;
 }
-#section1 {
-  padding-top: 50px;
-  color: #fff;
-  background-color: #2B2D42;
+.navbar-brand,.nav-link{
+    color: white;
 }
-
-#section2 {
-  color: #fff;
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+    color: gold;
 }
-
-#section3 {
-  padding-top: 50px;
-  color: rgb(79, 79, 79);
-  background-color: #ff9800;
+.h23{
+    height: 200px;
 }
-
-#section4 {
-  padding-top: 50px;
-  height: 500px;
-  color: #000000;
-  background-color: #EDF2F4;
+.txt0{
+    font-size: 40pt;
 }
-
-#section5 {
-  padding-top: 50px;
-  height: 500px;
-  color: #fff;
-  background-color: #EF233C;
-}
-.Beat{
-  width: 100%;
-  margin: 25px 0;
-}
-.qw{
-  color: #bac523;
-}
-.ht{
-  background-color: violet;
-}
-td{
-  color: #2B2D42;
-  background-color: rgb(66, 220, 202);
-}
-.bg{
-  background-image: url(../image/bodyimg.png);
-  background-repeat: repeat;
-  height: 300px;
-}
-.black{
-  padding-top: 50px;
-  height: 300px;
-  background-color: #00000089;
-}
-.pz{
-  color: #000000;
-}
-.modal-body,.modal-header{
-  background-color: #2B2D42;
-}
-.close{
-  color: white;
-  opacity: .7;
-}
-.pza{
-  color:aqua;
-}
-.bg1{
-  background-image: url(../image/moroccan-flower-dark.webp);
-  background-repeat: repeat;
-}
-.black1{
-  background-color: #00000089;
+.up{
+    width: 40px;
+    height: 40px;
+    font-size: 17pt;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
 }
